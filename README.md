@@ -1,2 +1,19 @@
 # JoE_2021
 Joy of Engineering Course@BMU, Batch 2021 (September 2021)
+
+
+## Session 1: Monday, September 20, 2021
+
+Start Time : Sep 20, 2021 10:04 AM
+
+Meeting Recording:
+https://us06web.zoom.us/rec/share/bzdPqiiRiygA-3YWpDh2fuVqFQYzgnuI6fx85RHvUhjbqx2aC75q3FuXuz4RPXz6.v1FqMrEY5x1f0n-L
+
+
+## Session 2: Tuesday, September 21, 2021
+
+Start Time : Sep 21, 2021 08:57 AM
+
+Meeting Recording:
+https://us06web.zoom.us/rec/share/_tO028oQNikX_lMtsMKkMPD7xNc6lulmOFNPyu-lJM7QPxiExd0ytK7XxidZMPiI.IRXrJ3djShZUYK_8
+
