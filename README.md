@@ -17,3 +17,12 @@ Start Time : Sep 21, 2021 08:57 AM
 Meeting Recording:
 https://us06web.zoom.us/rec/share/_tO028oQNikX_lMtsMKkMPD7xNc6lulmOFNPyu-lJM7QPxiExd0ytK7XxidZMPiI.IRXrJ3djShZUYK_8
 
+
+## Session 3: Monday, September 27, 2021
+
+Start Time : Sep 27, 2021 10:02 AM
+
+Meeting Recording:
+https://us06web.zoom.us/rec/share/CpnlMSyjdNr56ySg3SAW1Ny1yfTfhY8qWzlXnUFRy_HJHpE8mnHqfEM9GrmbhMpp.CbXy62i_IJV69Zxh
+
+
