@@ -1,0 +1,40 @@
+# Numpy
+https://numpy.org/doc/stable/
+https://numpy.org/doc/stable/user/tutorial-ma.html
+
+# SciPy
+https://docs.scipy.org/doc/
+http://scipy.github.io/devdocs/dev/
+
+# Matplotlib
+https://matplotlib.org/stable/tutorials/index.html
+https://matplotlib.org/stable/gallery/index.html#
+
+# Pandas
+https://pandas.pydata.org/
+https://pandas.pydata.org/docs/user_guide/10min.html#operations
+
+# OpenCV
+https://docs.opencv.org/master/d2/d96/tutorial_py_table_of_contents_imgproc.html
+https://docs.opencv.org/master/
+
+# Scikit-image
+https://scikit-image.org/docs/stable/auto_examples/index.html
+
+# sqlite3 — DB-API 2.0 interface for SQLite databases
+https://docs.python.org/3/library/sqlite3.html
+https://www.sqlitetutorial.net/sqlite-python/
+
+# Scikit-Learn
+https://scikit-learn.org/stable/
+
+# RaspberryPi-GPIO Python
+https://sourceforge.net/p/raspberry-gpio-python/wiki/BasicUsage/
+https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples/
+
+# Raspberry Pi
+Raspberry Pi OS (previously called Raspbian) is our official supported operating system.
+https://www.raspberrypi.org/software/
+https://www.raspberrypi.org/products/
+
+
