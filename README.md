@@ -28,3 +28,10 @@ Meeting Recording:
 https://us06web.zoom.us/rec/share/CpnlMSyjdNr56ySg3SAW1Ny1yfTfhY8qWzlXnUFRy_HJHpE8mnHqfEM9GrmbhMpp.CbXy62i_IJV69Zxh
 
 
+## Session 4: Tuesday, September 28, 2021
+
+Start Time : Sep 28, 2021 08:56 AM
+
+Meeting Recording:
+https://us06web.zoom.us/rec/share/RAs3YeXs0oJ56PhE_63yfMHufvi9Qu7-KguD2V-_u5eP34tPJmLm0aS1HOm6A2L-.WdGzN1wfzyswNcme
+
